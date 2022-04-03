@@ -1,2 +1,2 @@
 # sharesquare-kb-assets
-The style file Link: https://gitcdn.link/repo/Sharesquared/sharesquare-kb-assets/main/style.css
+The style file Link: https://github.com/Sharesquared/sharesquare-kb-assets
